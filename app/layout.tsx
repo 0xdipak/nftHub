@@ -3,7 +3,7 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "NFT Landing Page",
+  title: "NFT Hub",
   description: "A advance ntf landing page.",
 };
 
